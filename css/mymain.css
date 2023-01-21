@@ -147,7 +147,7 @@ body.before-load {
 }
 .mid-message {
   padding: 0 1rem;
-  font-size: 2rem;
+  font-size: 4vw;
   color: #888;
 }
 .mid-message strong {
@@ -195,7 +195,6 @@ body.before-load {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 
 .image-blend-canvas {
